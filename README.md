@@ -5,3 +5,5 @@
 🌱 Currently learning: React Native, Python <br />
 💬 Currently working on: New job and tutorials about what I'm learning <br />
 ❤️ I love: Travel, photography, coding and music
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFParrott)](https://github.com/anuraghazra/github-readme-stats)
